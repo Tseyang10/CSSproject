@@ -1,0 +1,127 @@
+body{
+    margin: 8% 0% 0% 25%;
+}
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    display: inline;
+}
+
+.h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    font-size: 60px;
+    font-weight: 100;
+    display: inline;  
+    color: grey;
+}
+
+.h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    font-size: 35px;
+    font-weight: 100;
+    display: inline;  
+    color: grey;
+}
+
+.img {
+    display: inline; 
+    margin-left: 320px;
+}
+
+.flex {
+   display: flex;
+
+}
+
+.p1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    color: #e74c3c;
+    
+    margin: 15% 0% 20% 20%;
+}
+
+.p2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #e74c3c;
+    text-decoration: line-through;
+    margin: 9% 0% 0% 17%;
+}
+
+.p3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin: 5% 0% 20% 5%;
+    
+}
+
+.C{
+    height: 20px;
+    width: 20px;
+    
+}
+   
+
+.box {
+    margin-top: 3%;
+    margin-right: 7%;
+    border: 2px;
+    box-shadow: 10px 10px #d6d4d4 ;
+    border-style: solid;
+    border-color: #e74c3c;
+    border-radius: 4%;
+    width: 210px;
+    height: 330px;
+    display: inline;
+    position: relative;
+    
+}
+
+.container {
+    filter: blur(8px);
+        
+   }
+
+
+.block {
+    filter: blur(0px);
+    border: 2px solid #e74c3c;
+    border-radius: 10px;
+    background-color: white;
+    height: 230px;
+    width: 420px;
+    margin: -25% 20% 20% 15%;
+}
+
+.BF {
+    color: #e74c3c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+
+
+}
+
+.BF1 {
+    border: 2px solid ;
+    border-color: #e74c3c; 
+    border-radius: 6px; 
+    height: 35px; 
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #e74c3c;
+    border-radius: 50px;
+    height: 35px; width: 90px;
+    border: 1px;
+    box-shadow: none;
+    color: white;
+    font-size: 20px;
+}
